@@ -6,9 +6,11 @@
 4. To bring up the mdt use /aa in chat (this can be changed on line 8 inside sv_mdt) and itll bring up the mdt with an animation as if you were pulling out a notebook or notepad.
 
 ## If anyones wants to see what it looks like click these links below
-https://i.imgur.com/aiKT9wq.png
-https://i.imgur.com/hcFsiC1.png
-https://i.imgur.com/ifE1tnc.png
-https://i.imgur.com/rQaFqAL.png
-https://i.imgur.com/iG9sbpc.png
-https://i.imgur.com/NyhTI3D.png
+https://i.imgur.com/opJkIdX.png
+https://i.imgur.com/KAh8XTl.png
+https://i.imgur.com/q6s5cBV.png
+https://i.imgur.com/5sI4xtI.png
+https://i.imgur.com/Jp6yOWH.png
+
+## More in Depth Version made by i3ucky available at:
+https://github.com/i3ucky/bucky_mdt  
