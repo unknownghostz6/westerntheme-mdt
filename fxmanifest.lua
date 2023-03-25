@@ -19,11 +19,4 @@ server_script "sv_mdt.lua"
 
 client_script "cl_mdt.lua"
 
---======================================= VERSION CHECK =====================================================--
-
 version '1.2'
-vorp_checker 'yes'
-vorp_name '^4Resource version Check^3'
-vorp_github 'https://github.com/unknownghostz6/westerntheme-mdt'
-
---===========================================================================================================--
