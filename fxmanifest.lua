@@ -19,4 +19,4 @@ server_script "sv_mdt.lua"
 
 client_script "cl_mdt.lua"
 
-version '1.2'
+version '1.3'
