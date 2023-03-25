@@ -15,8 +15,13 @@ files {
     "ui/mugshot.png"
 }
 
-server_script "sv_mdt.lua"
+server_scripts {
+    'sv_mdt.lua',
+    'version.lua',
+}
 
-client_script "cl_mdt.lua"
+client_scripts {
+    'cl_mdt.lua',
+}
 
 version '1.3'
