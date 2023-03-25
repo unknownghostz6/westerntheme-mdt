@@ -29,4 +29,4 @@ client_scripts {
     'cl_mdt.lua',
 }
 
-version '1.4'
+version '1.4.1'
